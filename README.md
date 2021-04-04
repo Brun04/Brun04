@@ -1,4 +1,4 @@
-### Bruno Verchère :fr:
+## Bruno Verchère :fr:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FR-blue)](https://fr.linkedin.com/in/bruno-verch%C3%A8re)
 
